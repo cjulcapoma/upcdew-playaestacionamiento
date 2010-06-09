@@ -49,7 +49,6 @@ Released for free under a Creative Commons Attribution 2.5 License
                             <ul>
                                 <li><a href="local_reg.jsp">Nuevo</a> <i>(M)</i></li>
                                 <li><a href="local_edit.jsp">Editar</a> <i>(A)</i></li>
-                                <li><a href="local_verify.jsp">Disponibilidad</a> <i>(A)</i></li>
                             </ul>
                         </li>
                     </ul>

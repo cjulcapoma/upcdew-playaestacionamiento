@@ -29,34 +29,34 @@
                             <table>
                                 <tr>
                                     <td>Nombre:</td>
-                                    <td><input class="input-normal" type="text" name="txtNombre" value="" /></td>
+                                    <td><input type="text" name="txtNombre" value="" /></td>
                                 </tr>
                                 <tr>
                                     <td>Dirección:</td>
-                                    <td><input class="input-normal" type="text" name="txtDireccion" value="" /></td>
+                                    <td><input type="text" name="txtDireccion" value="" /></td>
                                 </tr>
                                 <tr>
                                     <td>Teléfono:</td>
-                                    <td><input class="input-normal" type="text" name="txtTelefono" value="" /> </td>
+                                    <td><input type="text" name="txtTelefono" value="" /> </td>
                                 </tr>
                                 <tr>
                                     <td>E-Mail:</td>
-                                    <td><input  class="input-normal" type="text" name="txtMail" value="" /> </td>
+                                    <td><input type="text" name="txtMail" value="" /> </td>
                                 </tr>
                             </table>
                             <hr />
                             <p>Tipo de Cliente</p>
                             <table>
                                 <tr>
-                                    <td><input class="input-option" type="radio" name="TipoCliente" value="N" checked="checked" /></td>
+                                    <td><input type="radio" name="TipoCliente" value="N" checked="checked" /></td>
                                     <td>Normal</td>
                                 </tr>
                                 <tr>
-                                    <td><input class="input-option" type="radio" name="TipoCliente" value="A" checked="checked" /></td>
+                                    <td><input type="radio" name="TipoCliente" value="A" checked="checked" /></td>
                                     <td>Abonado</td>
                                 </tr>
                                 <tr>
-                                    <td><input class="input-option" type="radio" name="TipoCliente" value="P" checked="checked" /></td>
+                                    <td><input type="radio" name="TipoCliente" value="P" checked="checked" /></td>
                                     <td>Prepago</td>
                                 </tr>
                             </table>
@@ -90,7 +90,6 @@
                             <ul>
                                 <li><a href="local_reg.jsp">Nuevo</a> <i>(M)</i></li>
                                 <li><a href="local_edit.jsp">Editar</a> <i>(A)</i></li>
-                                <li><a href="local_verify.jsp">Disponibilidad</a> <i>(A)</i></li>
                             </ul>
                         </li>
 

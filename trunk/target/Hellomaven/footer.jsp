@@ -11,6 +11,6 @@
 <!-- end #content -->
 <div id="footer">
 	<p id="legal">Copyright &copy; 2010. </p>
-	<p id="brand">Control de Playa de Estacionamiento</p>
+	<p id="brand">Cuidando el Medio Ambiente</p>
 </div>
 <!-- end #footer -->

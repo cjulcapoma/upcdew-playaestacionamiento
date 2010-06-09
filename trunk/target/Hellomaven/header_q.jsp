@@ -8,7 +8,7 @@
     <div id="menu">
 	<ul>
 		<li><a href="index.jsp" accesskey="1" title="">Inicio</a></li>
-		<li class="active"><a href="query.jsp" accesskey="2" title="">Consultas</a></li>
+		<li class="active"><a href="#" accesskey="2" title="">Consultas</a></li>
 		<li><a href="cust_reg.jsp" accesskey="3" title="">Procesos</a></li>
 
 	</ul>

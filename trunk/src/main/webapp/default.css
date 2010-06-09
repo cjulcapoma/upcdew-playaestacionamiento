@@ -62,7 +62,7 @@ a:hover {
 
 #wrapper {
 	background: #FFFFFF url(images/img04.gif) repeat-x left bottom;
-        
+
 }
 
 /* Menu */
@@ -131,7 +131,7 @@ a:hover {
 	float: right;
 	width: 494px;
 	height: 34px;
-	padding: 180px 20px 0 0;	
+	padding: 180px 20px 0 0;
 	text-align: right;
 	letter-spacing: -1px;
 	font-size: 22px;
@@ -272,38 +272,9 @@ a:hover {
 #tabla td i {
 	font-size: smaller;
 }
-input {
-	font-size: 12px;
-	font-weight: normal;
-	color: #708090;
-	background-image:   url(images/fondo_input_text.jpg);
-	background-repeat:  repeat-x;
-	background-position: left top;
-	font-family: verdana,Arial, Helvetica, sans-serif;
-	padding-left: 3px;
-	border-top: 1px solid #737373;
-	border-right: 1px solid #969696;
-	border-bottom: 1px solid #969696;
-	border-left: 1px solid #737373;
-}
-
-.input-option {
-	font-size: 12px;
-	font-weight: normal;
-	color: #708090;
-        background-image:   url(images/fondo_input_text1.jpg);
-	background-repeat:  repeat-x;
-	background-position: left top;
-	font-family: verdana,Arial, Helvetica, sans-serif;
-	padding-left: 3px;
-	border-top: 0px;
-	border-right: 0px ;
-	border-bottom: 0px;
-	border-left: 0px ;
-}
 
 .input-normal {
-	font-size: 12px;
+	font-size: 10px;
 	font-weight: normal;
 	color: #708090;
 	background-image:   url(images/fondo_input_text.jpg);
@@ -316,7 +287,6 @@ input {
 	border-bottom: 1px solid #969696;
 	border-left: 1px solid #737373;
 }
-
 
 .input-normalb {
 	font-size: 10px;
@@ -333,43 +303,20 @@ input {
 	border-left: 1px solid #737373;
 	cursor:hand;
 }
+.input-normalbo{
+	font-size: 10px;
+	font-weight: normal;
+	color: #708090;
+	background-image:   url(images/fondo_input_text.jpg);
+	background-repeat:  repeat-x;
+	background-position: left top;
+	font-family: verdana,Arial, Helvetica, sans-serif;
+	padding-left: 3px;
+	border-top: 1px solid #737373;
+	border-right: 1px solid #969696;
+	border-bottom: 1px solid #969696;
+	border-left: 1px solid #737373;
+	cursor:hand;
+	visibility:hidden;
 
-.et
-{
-background-image:   url(images/encata.jpg);
-background-repeat:  repeat;
-font-weight:bold;
-cursor: default;
-}
-table
-{
-color: #708090;
-cellpadding:0;
-cellspacing:0;
-margin:0px;
-margin-left: 0px;
-margin-right: 0px;
-margin-top: 0px;
-margin-bottom: 0px;
-padding:0px;
-padding-top: 0px;
-padding-bottom: 0px;
-padding-right: 0px;
-padding-left: 0px;
-}
-
-
-.t1
-{
-background-image:url(images/fondtabla.gif);
-margin:0px;
-margin-left: 0px;
-margin-right: 0px;
-margin-top: 0px;
-margin-bottom: 0px;
-padding:0px;
-padding-top: 0px;
-padding-bottom: 0px;
-padding-right: 0px;
-padding-left: 0px;
 }

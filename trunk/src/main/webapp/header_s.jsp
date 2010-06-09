@@ -9,7 +9,7 @@
 	<ul>
 		<li><a href="index.jsp" accesskey="1" title="">Inicio</a></li>
 		<li><a href="query.jsp" accesskey="2" title="">Consultas</a></li>
-		<li class="active"><a href="cust_reg.jsp" accesskey="3" title="">Procesos</a></li>
+		<li class="active"><a href="#" accesskey="3" title="">Procesos</a></li>
 
 	</ul>
 </div>

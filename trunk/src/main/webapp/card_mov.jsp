@@ -21,7 +21,7 @@ Released for free under a Creative Commons Attribution 2.5 License
 	<div id="content">
 		<div id="posts">
 			<div class="post">
-			<h2 class="title">Criterios de Consultas de Movimientos</h2>
+			<h2 class="title">Criterios de Consultas</h2>
 				<div class="story">
 					<p>Ingrese el rango de fechas que desee consultar con el formato DD/MM/YYYY </p>
                                         <table>
@@ -74,9 +74,9 @@ Released for free under a Creative Commons Attribution 2.5 License
 				<li>
 					<h2>Ingresos y Salidas</h2>
 					<ul>
-						<li><a href="query.jsp">Por Periodo</a> <i>(Rango de Fechas)</i></li>
-						<li><a href="query_abon.jsp">Por Asociado</a> <i>(Clente registrado)</i></li>
-                                                <li><a href="query_placa.jsp">Por Auto</a> <i>(Número de Placa)</i></li>
+						<li><a href="#">Por Periodo</a> <i>(Rango de Fechas)</i></li>
+						<li><a href="#">Por Asociado</a> <i>(Clente registrado)</i></li>
+                                                <li><a href="#">Por Auto</a> <i>(Número de Placa)</i></li>
 
 					</ul>
 				</li>

@@ -21,7 +21,7 @@ Released for free under a Creative Commons Attribution 2.5 License
 	<div id="content">
 		<div id="posts">
 			<div class="post">
-				<h2 class="title">Resultado de Consulta de Saldo</h2>
+				<h2 class="title">Resultado de Consulta</h2>
 				<div class="story">
 					<p> Saldo de tarjeta al 25/05/2010</p>
                                         <table>
@@ -43,9 +43,9 @@ Released for free under a Creative Commons Attribution 2.5 License
 				<li>
 					<h2>Ingresos y Salidas</h2>
 					<ul>
-						<li><a href="query.jsp">Por Periodo</a> <i>(Rango de Fechas)</i></li>
-						<li><a href="query_abon.jsp">Por Asociado</a> <i>(Clente registrado)</i></li>
-                                                <li><a href="query_placa.jsp">Por Auto</a> <i>(Número de Placa)</i></li>
+						<li><a href="#">Por Periodo</a> <i>(Rango de Fechas)</i></li>
+						<li><a href="#">Por Asociado</a> <i>(Clente registrado)</i></li>
+                                                <li><a href="#">Por Auto</a> <i>(Número de Placa)</i></li>
 
 					</ul>
 				</li>

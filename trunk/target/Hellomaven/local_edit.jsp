@@ -30,19 +30,19 @@
                             <table>
                                 <tr>
                                     <td>ID</td>
-                                    <td><input  class="input-normal" type="text" name="txtId" value="" /></td>
+                                    <td><input type="text" name="txtId" value="" /></td>
                                 </tr>
                                 <tr>
                                     <td>Nombre:</td>
-                                    <td><input   class="input-normal" type="text" name="txtNombre" value="" /></td>
+                                    <td><input type="text" name="txtNombre" value="" /></td>
                                 </tr>
                                 <tr>
                                     <td>Dirección:</td>
-                                    <td><input   class="input-normal" type="text" name="txtDireccion" value="" /></td>
+                                    <td><input type="text" name="txtDireccion" value="" /></td>
                                 </tr>
                                 <tr>
                                     <td>Teléfono:</td>
-                                    <td><input   class="input-normal"  type="text" name="txtTelefono" value="" /> </td>
+                                    <td><input type="text" name="txtTelefono" value="" /> </td>
                                 </tr>
                             </table>
                             <hr />
@@ -50,19 +50,19 @@
                             <table>
                                 <tr>
                                     <td>Cantidad de Espacios:</td>
-                                    <td><input  class="input-normal"  type="text" name="txtEspacios" value="" /></td>
+                                    <td><input type="text" name="txtEspacios" value="" /></td>
                                 </tr>
                                 <tr>
                                     <td>Tolerancia (En Minutos):</td>
-                                    <td><input  class="input-normal"  type="text" name="txtTolerancia" value="" /></td>
+                                    <td><input type="text" name="txtTolerancia" value="" /></td>
                                 </tr>
                                 <tr>
                                     <td>Precio por Hora:</td>
-                                    <td><input   class="input-normal" type="text" name="txtPrecioHora" value="" /> </td>
+                                    <td><input type="text" name="txtPrecioHora" value="" /> </td>
                                 </tr>
                                 <tr>
                                     <td>Porc. de Descuento con Tarjeta:</td>
-                                    <td><input   class="input-normal" type="text" name="txtPorcDscto" value="" /> </td>
+                                    <td><input type="text" name="txtPorcDscto" value="" /> </td>
                                 </tr>
                             </table>
                             <hr />
@@ -95,7 +95,6 @@
                             <ul>
                                 <li><a href="local_reg.jsp">Nuevo</a> <i>(M)</i></li>
                                 <li><a href="local_edit.jsp">Editar</a> <i>(A)</i></li>
-                                <li><a href="local_verify.jsp">Disponibilidad</a> <i>(A)</i></li>
                             </ul>
                         </li>
 

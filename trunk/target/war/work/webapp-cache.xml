@@ -6,10 +6,6 @@
         <pathsSet class="linked-hash-set">
           <string>card_account.jsp</string>
           <string>card_mov.jsp</string>
-          <string>checkin_park.jsp</string>
-          <string>checkout_park.jsp</string>
-          <string>cust_edit.jsp</string>
-          <string>cust_reg.jsp</string>
           <string>default.css</string>
           <string>footer.jsp</string>
           <string>header_i.jsp</string>
@@ -83,12 +79,8 @@
           <string>images/top_box_bg.gif</string>
           <string>images/tr_back.gif</string>
           <string>index.jsp</string>
-          <string>local_edit.jsp</string>
-          <string>local_reg.jsp</string>
           <string>META-INF/context.xml</string>
           <string>query.jsp</string>
-          <string>query_abon.jsp</string>
-          <string>query_placa.jsp</string>
           <string>setup.jsp</string>
           <string>WEB-INF/web.xml</string>
           <string>WEB-INF/classes/pe/edu/upc/dw/model/Abono.class</string>
