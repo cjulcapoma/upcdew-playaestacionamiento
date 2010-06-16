@@ -1,0 +1,21 @@
+<webapp-structure>
+  <registeredFiles>
+    <entry>
+      <string>currentBuild</string>
+      <path-set>
+        <pathsSet class="linked-hash-set">
+          <string>bienvenida.jsp</string>
+          <string>index.jsp</string>
+          <string>META-INF/context.xml</string>
+          <string>WEB-INF/web.xml</string>
+          <string>WEB-INF/classes/pe/edu/upc/webmaven/controller/HolaServlet.class</string>
+          <string>WEB-INF/classes/pe/edu/upc/webmaven/controller/LoginServlet.class</string>
+          <string>WEB-INF/classes/pe/edu/upc/webmaven/model/Espacio.class</string>
+          <string>WEB-INF/classes/pe/edu/upc/webmaven/model/Estacionamiento.class</string>
+          <string>WEB-INF/classes/pe/edu/upc/webmaven/model/Usuario.class</string>
+          <string>WEB-INF/classes/pe/edu/upc/webmaven/model/Vehiculo.class</string>
+        </pathsSet>
+      </path-set>
+    </entry>
+  </registeredFiles>
+</webapp-structure>
