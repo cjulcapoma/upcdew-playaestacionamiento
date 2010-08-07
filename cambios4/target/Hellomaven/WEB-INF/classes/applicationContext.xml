@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+    <bean id="usuario" class="pe.edu.upc.dw.model.Usuario">
+        <property name="local" ref="local" />
+    </bean>
+    <bean id="cliente" class="pe.edu.upc.dw.model.Cliente"></bean>
+    <bean id="tarjeta" class="pe.edu.upc.dw.model.Tarjeta">
+        <property name="cliente" ref="cliente" />
+    </bean>
+    <bean id="local" class="pe.edu.upc.dw.model.Local"></bean>
+    <bean id="alquiler" class="pe.edu.upc.dw.model.Alquiler"></bean>
+
+    <bean id="consultaIngresoSalida" class="pe.edu.upc.dw.model.ConsultaIngresoSalidas"></bean>
+    <bean id="consultaMovimiento" class="pe.edu.upc.dw.model.ConsultaMovimiento"></bean>
+
+
+    <bean id="usuarioDao" class="pe.edu.upc.dw.dao.UsuarioDaoJdbc"></bean>
+    <bean id="clienteDao" class="pe.edu.upc.dw.dao.ClienteDaoJdbc"></bean>
+    <bean id="tarjetaDao" class="pe.edu.upc.dw.dao.TarjetaDaoJdbc"></bean>
+    <bean id="consultasaldosDao" class="pe.edu.upc.dw.dao.ConsultaSaldosDaoJdbc"></bean>
+    <bean id="consultaingresosalidaDao" class="pe.edu.upc.dw.dao.ConsultaIngresoSalidaDaoJdbc"></bean>
+    
+</beans>
